@@ -21,7 +21,6 @@ iNotepad is a simple and efficient notes management application built with React
 
 - **React**: A JavaScript library for building user interfaces.
 - **Axios**: Promise-based HTTP client for the browser and Node.js.
-- **Bootstrap**: A CSS framework for developing responsive and mobile-first websites.
 - **Express**: A minimal and flexible Node.js web application framework.
 - **JWT**: JSON Web Token for secure user authentication.
 
