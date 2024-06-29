@@ -1,6 +1,6 @@
 # iNotepad
 
-iNotepad is a simple and efficient notes management application built with React and Vite. It allows users to add, edit, and display notes seamlessly. The project leverages Axios for API requests and Bootstrap for few styling.
+iNotepad is a feature-rich notes management application designed to provide a seamless experience for users to add, edit, and display their notes. Built using modern web technologies, it combines the power of React for the frontend and Express for the backend, with authentication handled securely using JSON Web Tokens (JWT). The project is developed with a focus on simplicity, efficiency, and user-friendliness.
 
 ### Live https://inotepadv1.netlify.app
 ## Features
