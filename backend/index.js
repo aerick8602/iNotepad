@@ -19,4 +19,4 @@ mongoose.connect(mongoDBURL, { useNewUrlParser: true, useUnifiedTopology: true }
   })
   .catch(err => console.error('MongoDB connection error:', err));
 
-app.get('/', (req, res) => res.status(200).send("Hello fork, Welcome to InoteB00k 🤩🤩"));
+app.get('/', (req, res) => res.status(200).send("Hello fork, Welcome to iNotepad 🤩🤩"));
